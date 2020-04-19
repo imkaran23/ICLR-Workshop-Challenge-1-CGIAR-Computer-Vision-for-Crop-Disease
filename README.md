@@ -7,8 +7,8 @@ Some images may contain both stem and leaf rust, there is always one type of rus
 
 The values can be between 0 and 1, inclusive.
 
-ID       leaf_rust   stem_rust   healthy_wheat   
-GVRCWM      0.63       0.98          0.21      
-8NRRD6      0.76       0.11          0.56
+ID          leaf_rust   stem_rust   healthy_wheat   
+GVRCWM         0.63       0.98          0.21      
+8NRRD6         0.76       0.11          0.56
 
 Wheat rust is a devastating plant disease that affects many African crops, reducing yields and affecting the livelihoods of farmers and decreasing food security across the continent. The disease is difficult to monitor at a large scale, making it difficult to control and eradicate.
